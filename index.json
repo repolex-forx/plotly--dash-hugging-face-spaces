@@ -1,0 +1,11 @@
+{
+  "org": "plotly",
+  "repo": "dash-hugging-face-spaces",
+  "versions": [
+    {
+      "commit": "dddd5a69c742cab48bdbbb6e7a809fe4a3ec64dd",
+      "tag": "",
+      "parsed_at": "2026-11-07T08:02:03.711325+00:00"
+    }
+  ]
+}
